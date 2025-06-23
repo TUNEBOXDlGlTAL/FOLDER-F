@@ -6932,6 +6932,869 @@ https://jmp2.uk/plu-623a1b5188ecdc0007c9ef5a.m3u8
 https://jmp2.uk/plu-5d14fc31252d35decbc4080b.m3u8
 
 
+TEMPORARY
+##########
+
+
+
+
+#EXTINF:-1 CUID="979" tvg-chno="28" tvg-name="ASTRO ARENA" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arena.png" group-title="SPORTS",ASTRO ARENA FHD
+https://ott.udptv.org/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="981" tvg-chno="30" tvg-name="ASTRO FOOTBALL" tvg-id="Astro.Football.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/football.png" group-title="SPORTS",ASTRO FOOTBALL FHD
+https://ott.udptv.org/stream/astro/astrofootball/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="983" tvg-chno="32" tvg-name="ASTRO SPORTS PLUS" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sportsplus.png" group-title="SPORTS",ASTRO SPORTS PLUS FHD
+https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="988" tvg-chno="37" tvg-name="BEIN SPORTS 1" tvg-id="beIN.SPORTS.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",BEIN SPORTS 1 FHD
+https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="989" tvg-chno="38" tvg-name="BEIN SPORTS 2" tvg-id="beIN.SPORTS.2.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein2.png" group-title="SPORTS",BEIN SPORTS 2 FHD
+https://ott.udptv.org/stream/astro/beinsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="990" tvg-chno="39" tvg-name="BEIN SPORTS 3" tvg-id="beIN.SPORTS.3.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein3.png" group-title="SPORTS",BEIN SPORTS 3 FHD
+https://ott.udptv.org/stream/astro/beinsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="991" tvg-chno="40" tvg-name="BEIN SPORTS 4" tvg-id="beIN.SPORTS.4.(HD).sg" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/beinmax4.png?raw=true" group-title="SPORTS",BEIN SPORTS 4 FHD
+https://ott.udptv.org/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="992" tvg-chno="41" tvg-name="BEIN SPORTS 5" tvg-id="beIN.SPORTS.5.(HD).sg" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/beinmax5.png?raw=true" group-title="SPORTS",BEIN SPORTS 5 FHD
+https://ott.udptv.org/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="993" tvg-chno="42" tvg-name="BEIN SPORTS HD" tvg-id="udptvus/beinsports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bein.png" group-title="SPORTS",BEIN SPORTS HD FHD
+https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="994" tvg-chno="43" tvg-name="BEIN SPORTS XTRA" tvg-id="413152" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/bein.png?raw=true" group-title="SPORTS",BEIN SPORTS XTRA
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 CUID="995" tvg-chno="44" tvg-name="BILLIARD TV" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/billiardtv.png" group-title="SPORTS",BILLARD TV FHD
+https://ott.udptv.org/stream/udptvus/billardtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="996" tvg-chno="45" tvg-name="BLAST SPORTS" tvg-id="blastPH.Blast.Sports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/blastsports.png" group-title="SPORTS",BLAST SPORTS FHD
+https://ott.udptv.org/stream/iptv/blastsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1004" tvg-chno="53" tvg-name="CBS SPORTS GOLAZO" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golazo.png" group-title="SPORTS",CBS SPORTS GOLAZO
+https://ott.udptv.com/stream/udptv/cbssportsgolazo/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1018" tvg-chno="67" tvg-name="DAZN RINGSIDE" tvg-id="iptv/daznringside" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dazn.png" group-title="SPORTS",DAZN RINGSIDE
+https://ott.udptv.com/stream/udptv/daznringside/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1033" tvg-chno="82" tvg-name="ESPN" tvg-id="sling/espn" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN FHD
+https://ott.udptv.org/stream/udptvus/espn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1034" tvg-chno="83" tvg-name="ESPN 2" tvg-id="sling/espn2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN 2 FHD
+https://ott.udptv.org/stream/udptvus/espn2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1036" tvg-chno="85" tvg-name="ESPN U" tvg-id="sling/espnu" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espn.png" group-title="SPORTS",ESPN U FHD
+https://ott.udptv.org/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1037" tvg-chno="86" tvg-name="EUROSPORT 1" tvg-id="Eurosport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",EUROSPORT 1
+https://ott.udptv.com/stream/udptv/eurosport1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1038" tvg-chno="87" tvg-name="EUROSPORT 2" tvg-id="Eurosport.2.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",EUROSPORT 2
+https://ott.udptv.com/stream/udptv/eurosport2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1039" tvg-chno="88" tvg-name="FANDUEL SPORTS NETWORK EXTRA" tvg-id="FanDuel.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fanduelsports.png" group-title="SPORTS",FANDUEL SPORTS NETWORK EXTRA FHD
+https://ott.udptv.org/stream/iptv/fanduelsportsnetworkextra/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1040" tvg-chno="89" tvg-name="FANDUEL SPORTS NETWORK SOUTHWEST" tvg-id="iptv/fanduelsportsnetworksouthwest" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fanduelsports.png" group-title="SPORTS",FANDUEL SPORTS NETWORK SOUTHWEST FHD
+https://ott.udptv.org/stream/iptv/fanduelsportsnetworksouthwest/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1042" tvg-chno="91" tvg-name="FOX 11" tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX 11 FHD
+https://ott.udptv.org/stream/udptvus/fox11/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1044" tvg-chno="93" tvg-name="FOX SPORTS" tvg-id="FOXSPORTS.ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS
+https://ott.udptv.com/stream/udptv/foxsports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1045" tvg-chno="94" tvg-name="FOX SPORTS 2" tvg-id="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS 2
+https://ott.udptv.com/stream/udptv/foxsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1046" tvg-chno="95" tvg-name="FOX SPORTS 3" tvg-id="FoxSports3(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FOX SPORTS 3
+https://ott.udptv.com/stream/udptv/foxsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1048" tvg-chno="97" tvg-name="FS1" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FS1 FHD
+https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1049" tvg-chno="98" tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxsports.png" group-title="SPORTS",FS2 FHD
+https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1054" tvg-chno="103" tvg-name="GO3 SPORT" tvg-id="Go3.Sport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT
+https://ott.udptv.com/stream/udptv/go3sport/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1055" tvg-chno="104" tvg-name="GO3 SPORT 2" tvg-id="Go3.Sport.2.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT 2
+https://ott.udptv.com/stream/udptv/go3sport2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1056" tvg-chno="105" tvg-name="GO3 SPORT OPEN" tvg-id="Go3.Sport.Open.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/go3sport.png" group-title="SPORTS",GO3 SPORT OPEN
+https://ott.udptv.com/stream/udptv/go3sportopen/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1058" tvg-chno="107" tvg-name="GOLF CHANNEL" tvg-id="astro/golfchannel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golf.png" group-title="SPORTS",GOLF CHANNEL FHD
+https://ott.udptv.org/stream/astro/golfchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1062" tvg-chno="111" tvg-name="HBO BOXING" tvg-id="Amazon.US.HBOBoxing" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hboboxing.png" group-title="SPORTS",HBO BOXING FHD
+https://ott.udptv.org/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1110" tvg-chno="159" tvg-name="NBA TV - NBALP" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV - NBALP FHD
+https://ott.udptv.org/stream/udptvus/nbatvnbalp/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1111" tvg-chno="160" tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV HDTV
+https://ott.udptv.com/stream/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1112" tvg-chno="161" tvg-name="NBA TV PHILIPPINES" tvg-id="Cgnl.Nba.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV PHILIPPINES FHD
+https://ott.udptv.org/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1113" tvg-chno="162" tvg-name="NBA TV USA" tvg-id="NBA.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nbatv.png" group-title="SPORTS",NBA TV USA FHD
+https://ott.udptv.org/stream/udptvus/nbatv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1114" tvg-chno="163" tvg-name="NBC GOLF" tvg-id="Golf.Channel.USA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/golf.png" group-title="SPORTS",NBC GOLF
+https://ott.udptv.com/stream/nbc/nbcgolf/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1117" tvg-chno="166" tvg-name="NFL NETWORK" tvg-id="Amazon.US.NFLNetwork" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nflnetwork.png" group-title="SPORTS",NFL NETWORK
+https://ott.udptv.com/stream/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1118" tvg-chno="167" tvg-name="NFL REDZONE NETWORK" tvg-id="NFL.RedZone.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nflredzone.png" group-title="SPORTS",NFL REDZONE NETWORK FHD
+https://ott.udptv.org/stream/udptvus/nflredzonenetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1129" tvg-chno="178" tvg-name="ONE SPORTS" tvg-id="Onesports.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onesports.png" group-title="SPORTS",ONE SPORTS FHD
+https://ott.udptv.org/stream/iptv/onesports-1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1130" tvg-chno="179" tvg-name="ONE SPORTS +" tvg-id="Onesportsplus.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onesports+.png" group-title="SPORTS",ONE SPORTS + FHD
+https://ott.udptv.org/stream/iptv/onesports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1139" tvg-chno="188" tvg-name="PREMIER LEAGUE" tvg-id="Astro.Premier.League.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/uefa.png" group-title="SPORTS",PREMIER LEAGUE FHD
+https://ott.udptv.org/stream/iptv/premierleague/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1140" tvg-chno="189" tvg-name="PREMIER SPORTS" tvg-id="blastPH.Premier.Sports" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS FHD
+https://ott.udptv.org/stream/iptv/premiersports/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1141" tvg-chno="190" tvg-name="PREMIER SPORTS 1 UK" tvg-id="skyuk/premiersports1" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 1 UK
+https://ott.udptv.com/stream/skyuk/premiersports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1142" tvg-chno="191" tvg-name="PREMIER SPORTS 2" tvg-id="blastPH.Premier.Sports.2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 2 FHD
+https://ott.udptv.org/stream/iptv/premiersports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1143" tvg-chno="192" tvg-name="PREMIER SPORTS 2 UK" tvg-id="skyuk/premiersports2" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/premiersports.png" group-title="SPORTS",PREMIER SPORTS 2 UK
+https://ott.udptv.com/stream/skyuk/premiersports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1145" tvg-chno="194" tvg-name="RED BULL TV" tvg-id="IT:.Red.Bull.TV.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/redbulltv.png" group-title="SPORTS",RED BULL TV
+https://ott.udptv.com/stream/udptv/redbulltv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1151" tvg-chno="200" tvg-name="SETANTA SPORTS 1" tvg-id="Setanta.LT.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/setantasports.png" group-title="SPORTS",SETANTA SPORTS 1
+https://ott.udptv.com/stream/udptv/setantasport1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1160" tvg-chno="209" tvg-name="SKY CALCIO 2" tvg-id="Sky.Calcio.10..260.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 2 FHD
+https://ott.udptv.org/stream/Sky/skycalcio2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1161" tvg-chno="210" tvg-name="SKY CALCIO 3" tvg-id="Sky.Calcio.11..261.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 3 FHD
+https://ott.udptv.org/stream/Sky/skycalcio3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1162" tvg-chno="211" tvg-name="SKY CALCIO 4" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 4 FHD
+https://ott.udptv.org/stream/Sky/skycalcio4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1163" tvg-chno="212" tvg-name="SKY CALCIO 5" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 5 FHD
+https://ott.udptv.org/stream/Sky/skycalcio5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1164" tvg-chno="213" tvg-name="SKY CALCIO 6" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 6 FHD
+https://ott.udptv.org/stream/Sky/skycalcio6/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1165" tvg-chno="214" tvg-name="SKY CALCIO 7" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 7 FHD
+https://ott.udptv.org/stream/Sky/skycalcio7/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1166" tvg-chno="215" tvg-name="SKY CALCIO 8" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 8 FHD
+https://ott.udptv.org/stream/Sky/skycalcio8/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1167" tvg-chno="216" tvg-name="SKY CALCIO 9" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycalcio.png" group-title="SPORTS",SKY CALCIO 9 FHD
+https://ott.udptv.org/stream/Sky/skycalcio9/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1189" tvg-chno="238" tvg-name="SKY EUROSPORT 1" tvg-id="Eurosport.1.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",SKY EUROSPORT 1 FHD
+https://ott.udptv.org/stream/Sky/eurosport1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1190" tvg-chno="239" tvg-name="SKY EUROSPORT 2" tvg-id="Eurosport.2.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/eurosport.png" group-title="SPORTS",SKY EUROSPORT 2 FHD
+https://ott.udptv.org/stream/Sky/eurosport2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1197" tvg-chno="246" tvg-name="SKY SPORT 24" tvg-id="Sky.Sport24.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysports.png" group-title="SPORTS",SKY SPORT 24 FHD
+https://ott.udptv.org/stream/Sky/skysport24/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1198" tvg-chno="247" tvg-name="SKY SPORT ARENA" tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsarena.png" group-title="SPORTS",SKY SPORT ARENA FHD
+https://ott.udptv.org/stream/Sky/skysportarena/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1199" tvg-chno="248" tvg-name="SKY SPORT CALCIO" tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportscalcio.png" group-title="SPORTS",SKY SPORT CALCIO FHD
+https://ott.udptv.org/stream/Sky/skysportcalcio/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1200" tvg-chno="249" tvg-name="SKY SPORT F1" tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORT F1 FHD
+https://ott.udptv.org/stream/Sky/skysportf1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1201" tvg-chno="250" tvg-name="SKY SPORT GOLF" tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORT GOLF FHD
+https://ott.udptv.org/stream/Sky/skysportgolf/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1202" tvg-chno="251" tvg-name="SKY SPORT MAX" tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmax.png" group-title="SPORTS",SKY SPORT MAX FHD
+https://ott.udptv.org/stream/Sky/skysportmax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1203" tvg-chno="252" tvg-name="SKY SPORT MOTOGP" tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmotogp.png" group-title="SPORTS",SKY SPORT MOTOGP FHD
+https://ott.udptv.org/stream/Sky/skysportmotogp/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1204" tvg-chno="253" tvg-name="SKY SPORT NBA" tvg-id="Sky.Sport.NBA.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsnba.png" group-title="SPORTS",SKY SPORT NBA FHD
+https://ott.udptv.org/stream/Sky/skysportnba/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1205" tvg-chno="254" tvg-name="SKY SPORT TENNIS" tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportstennis.png" group-title="SPORTS",SKY SPORT TENNIS FHD
+https://ott.udptv.org/stream/Sky/skysporttennis/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1206" tvg-chno="255" tvg-name="SKY SPORT UNO" tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsuno.png" group-title="SPORTS",SKY SPORT UNO FHD
+https://ott.udptv.org/stream/Sky/skysportuno/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1207" tvg-chno="256" tvg-name="SKY SPORTS ACTION UK" tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsaction.png" group-title="SPORTS",SKY SPORTS ACTION UK
+https://ott.udptv.com/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1208" tvg-chno="257" tvg-name="SKY SPORTS CRICKET UK" tvg-id="SkySpCricket.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportscricket.png" group-title="SPORTS",SKY SPORTS CRICKET UK
+https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1209" tvg-chno="258" tvg-name="SKY SPORTS F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsf1.png" group-title="SPORTS",SKY SPORTS F1 UK
+https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1210" tvg-chno="259" tvg-name="SKY SPORTS FOOTBALL UK" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsfootball.png" group-title="SPORTS",SKY SPORTS FOOTBALL UK
+https://ott.udptv.com/stream/skyuk/skysportsfootball/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1211" tvg-chno="260" tvg-name="SKY SPORTS GOLF UK" tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsgolf.png" group-title="SPORTS",SKY SPORTS GOLF UK
+https://ott.udptv.com/stream/skyuk/skysportsgolf/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1212" tvg-chno="261" tvg-name="SKY SPORTS MAIN EVENT UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmainevent.png" group-title="SPORTS",SKY SPORTS MAIN EVENT UK
+https://ott.udptv.com/stream/skyuk/skysportsmainevent/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1213" tvg-chno="262" tvg-name="SKY SPORTS MIX UK" tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsmix.png" group-title="SPORTS",SKY SPORTS MIX UK
+https://ott.udptv.com/stream/skyuk/skysportsmix/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1214" tvg-chno="263" tvg-name="SKY SPORTS NEWS UK" tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsnews.png" group-title="SPORTS",SKY SPORTS NEWS UK
+https://ott.udptv.com/stream/skyuk/skysportsnews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1215" tvg-chno="264" tvg-name="SKY SPORTS PLUS UK" tvg-id="SkySp+.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysports+.png" group-title="SPORTS",SKY SPORTS PLUS UK
+https://ott.udptv.com/stream/skyuk/skysportsplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1216" tvg-chno="265" tvg-name="SKY SPORTS PREMIER LEAGUE UK" tvg-id="SkySp.PL.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportspremierleague.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE UK
+https://ott.udptv.com/stream/skyuk/skysportspremierleague/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1217" tvg-chno="266" tvg-name="SKY SPORTS RACING UK" tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportsracing.png" group-title="SPORTS",SKY SPORTS RACING UK
+https://ott.udptv.com/stream/skyuk/skysportsracing/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1218" tvg-chno="267" tvg-name="SKY SPORTS TENNIS UK" tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skysportstennis.png" group-title="SPORTS",SKY SPORTS TENNIS UK
+https://ott.udptv.com/stream/skyuk/skysportstennis/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1221" tvg-chno="270" tvg-name="SPO2 TV 2" tvg-id="SPOTV2.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv2.png" group-title="SPORTS",SPO2 TV 2 FHD
+https://ott.udptv.org/stream/iptv/spo2tv2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1222" tvg-chno="271" tvg-name="SPO TV" tvg-id="SPOTV.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/spotv.png" group-title="SPORTS",SPO TV FHD
+https://ott.udptv.org/stream/iptv/spotv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1223" tvg-chno="272" tvg-name="SPORT 1" tvg-id="Sport.1.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1.png" group-title="SPORTS",SPORT 1
+https://ott.udptv.com/stream/udptv/sport1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1224" tvg-chno="273" tvg-name="SPORT 1 BALTIC" tvg-id="Sports.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports1baltic.png" group-title="SPORTS",SPORT 1 BALTIC
+https://ott.udptv.com/stream/udptv/sport1baltic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1225" tvg-chno="274" tvg-name="SPORT 2 BALTIC" tvg-id="Sports.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sport2baltic.png" group-title="SPORTS",SPORT 2 BALTIC
+https://ott.udptv.com/stream/udptv/sport2baltic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1226" tvg-chno="275" tvg-name="SPORT 4" tvg-id="iptv/sport4" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sports4.png" group-title="SPORTS",SPORT 4
+https://ott.udptv.com/stream/udptv/sport4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1239" tvg-chno="288" tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT FHD
+https://ott.udptv.org/stream/udptvus/tnt/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1240" tvg-chno="289" tvg-name="TNT SPORTS 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 1
+https://ott.udptv.com/stream/skyuk/tntsports1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1241" tvg-chno="290" tvg-name="TNT SPORTS 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 2
+https://ott.udptv.com/stream/skyuk/tntsports2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1242" tvg-chno="291" tvg-name="TNT SPORTS 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 3
+https://ott.udptv.com/stream/skyuk/tntsports3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1243" tvg-chno="292" tvg-name="TNT SPORTS 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 4
+https://ott.udptv.com/stream/skyuk/tntsports4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1244" tvg-chno="293" tvg-name="TNT SPORTS 5" tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tnt.png" group-title="SPORTS",TNT SPORTS 5 FHD
+https://ott.udptv.org/stream/iptv/tntsports5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1247" tvg-chno="296" tvg-name="TSN1" tvg-id="TSN1.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN1 FHD
+https://ott.udptv.org/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1248" tvg-chno="297" tvg-name="TSN2" tvg-id="TSN2.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN2 FHD
+https://ott.udptv.org/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1249" tvg-chno="298" tvg-name="TSN3" tvg-id="TSN3.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN3 FHD
+https://ott.udptv.org/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1250" tvg-chno="299" tvg-name="TSN4" tvg-id="TSN4.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN4 FHD
+https://ott.udptv.org/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1251" tvg-chno="300" tvg-name="TSN5" tvg-id="TSN5.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tsn.png" group-title="SPORTS",TSN5 FHD
+https://ott.udptv.org/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1267" tvg-chno="316" tvg-name="W-SPORT" tvg-id="W-Sport.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/wsport.png" group-title="SPORTS",W-SPORT FHD
+https://ott.udptv.org/stream/astro/wsport/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1928" tvg-chno="20" tvg-name="AMC" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/amc.png" group-title="MOVlES",AMC FHD
+https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1929" tvg-chno="21" tvg-name="AMC THRILLERS" tvg-id="udptvus/amcthrillers" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/amcthriller.png" group-title="MOVlES",AMC THRILLERS FHD
+https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1955" tvg-chno="47" tvg-name="BOO" tvg-id="BOO.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/boo.png" group-title="MOVlES",BOO FHD
+https://ott.udptv.org/stream/astro/boo/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1962" tvg-chno="54" tvg-name="CELESTIAL MOVIES PINOY" tvg-id="Celestial.Movies.Pinoy.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/celestialmovies.png" group-title="MOVlES",CELESTIAL MOVIES PINOY FHD
+https://ott.udptv.org/stream/iptv/celestialmoviespinoy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1964" tvg-chno="56" tvg-name="CIGNAL DREAMWORKS" tvg-id="Cg.Dreamworktag.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MOVlES",CIGNAL DREAMWORKS FHD
+https://ott.udptv.org/stream/iptv/cignaldreamworks/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1965" tvg-chno="57" tvg-name="CINEMA ONE GLOBAL" tvg-id="Cinema.One.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemaone.png" group-title="MOVlES",CINEMA ONE GLOBAL FHD
+https://ott.udptv.org/stream/iptv/cinemaoneglobal/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1966" tvg-chno="58" tvg-name="CINEMAX" tvg-id="Cinemax.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemax.png" group-title="MOVlES",CINEMAX FHD
+https://ott.udptv.org/stream/iptv/cinemax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1967" tvg-chno="59" tvg-name="CINEMO GLOBAL" tvg-id="CINEMO!.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cinemo.png" group-title="MOVlES",CINEMO GLOBAL FHD
+https://ott.udptv.org/stream/iptv/cinemoglobal/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1971" tvg-chno="63" tvg-name="CRAVE 1" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crave1.png" group-title="MOVlES",CRAVE 1
+https://ott.udptv.com/stream/udptv/crave1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1972" tvg-chno="64" tvg-name="CRAVE 2" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crave2.png" group-title="MOVlES",CRAVE 2
+https://ott.udptv.com/stream/udptv/crave2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1973" tvg-chno="65" tvg-name="CRAVE 3" tvg-id="Crave3.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crave3.png" group-title="MOVlES",CRAVE 3
+https://ott.udptv.com/stream/udptv/crave3/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1974" tvg-chno="66" tvg-name="CRAVE 4" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/crave4.png" group-title="MOVlES",CRAVE 4
+https://ott.udptv.com/stream/udptv/crave4/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="1986" tvg-chno="78" tvg-name="DREAMWORKS TAGALIZED" tvg-id="Dreamworks.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dreamworks.png" group-title="MOVlES",DREAMWORKS TAGALIZED FHD
+https://ott.udptv.org/stream/iptv/dreamworkstagalized/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2007" tvg-chno="99" tvg-name="FX" tvg-id="sling/fxx" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fx.png" group-title="MOVlES",FX FHD
+https://ott.udptv.org/stream/udptvus/fx/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2008" tvg-chno="100" tvg-name="FXM" tvg-id="FXM.REGIONAL.OTT.(FX.Movies.DTH).pe" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fxm.png" group-title="MOVlES",FXM FHD
+https://ott.udptv.org/stream/udptvus/fxm/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2009" tvg-chno="101" tvg-name="FXX" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/fxx.png" group-title="MOVlES",FXX FHD
+https://ott.udptv.org/stream/udptvus/fxx/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2017" tvg-chno="109" tvg-name="HBO2" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo2.png" group-title="MOVlES",HBO2 FHD
+https://ott.udptv.org/stream/iptv/hbo2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2018" tvg-chno="110" tvg-name="HBO2 MAX" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo2.png" group-title="MOVlES",HBO2 MAX FHD
+https://ott.udptv.org/stream/iptv/hbo2max/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2022" tvg-chno="114" tvg-name="HBO FAMILY" tvg-id="Cg.Hbofam.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbofamily.png" group-title="MOVlES",HBO FAMILY FHD
+https://ott.udptv.org/stream/iptv/hbofamily/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2023" tvg-chno="115" tvg-name="HBO HD" tvg-id="Cg.Hbohd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbo.png" group-title="MOVlES",HBO HD FHD
+https://ott.udptv.org/stream/iptv/hbohd/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2024" tvg-chno="116" tvg-name="HBO HITS" tvg-id="Cg.Hbohits.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbohits.png" group-title="MOVlES",HBO HITS FHD
+https://ott.udptv.org/stream/iptv/hbohits/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2025" tvg-chno="117" tvg-name="HBO MAX" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbomax.png" group-title="MOVlES",HBO MAX FHD
+https://ott.udptv.org/stream/iptv/hbomax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2026" tvg-chno="118" tvg-name="HBO SIGNATURE" tvg-id="Cg.Hbosign.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbosignature.png" group-title="MOVlES",HBO SIGNATURE FHD
+https://ott.udptv.org/stream/iptv/hbosignature/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2027" tvg-chno="119" tvg-name="HBO WEST" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbowest.png" group-title="MOVlES",HBO WEST FHD
+https://ott.udptv.org/stream/iptv/hbowest/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2028" tvg-chno="120" tvg-name="HBO ZONE" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbozone.png" group-title="MOVlES",HBO ZONE FHD
+https://ott.udptv.org/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2032" tvg-chno="124" tvg-name="HITS MOVIES" tvg-id="Hits.Movies.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsmovies.png" group-title="MOVlES",HITS MOVIES FHD
+https://ott.udptv.org/stream/astro/hitsmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2034" tvg-chno="126" tvg-name="IHEART MOVIES" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iheartmovies.png" group-title="MOVlES",IHEART MOVIES FHD
+https://ott.udptv.org/stream/iptv/iheartmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2043" tvg-chno="135" tvg-name="KOREAN BLOCKBUSTERS" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/koreanblockbusters.png" group-title="MOVlES",KOREAN BLOCKBUSTERS FHD
+https://ott.udptv.org/stream/iptv/koreanblockbusters/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2045" tvg-chno="137" tvg-name="LOTUS MACAU" tvg-id="Lotusmacau.Prd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lotusmacau.png" group-title="MOVlES",LOTUS MACAU FHD
+https://ott.udptv.org/stream/iptv/lotusmacau/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2048" tvg-chno="140" tvg-name="MGM+ DRIVE-IN" tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mgm+drivein.png" group-title="MOVlES",MGM+ DRIVE-IN FHD
+https://ott.udptv.org/stream/udptvus/mgmdrivein/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2049" tvg-chno="141" tvg-name="MN+ FHD" tvg-id="iptv/mn" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mn+.png" group-title="MOVlES",MN+ FHD FHD
+https://ott.udptv.org/stream/iptv/mn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2050" tvg-chno="142" tvg-name="MNX" tvg-id="iptv/mnx" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mnx.png" group-title="MOVlES",MNX FHD
+https://ott.udptv.org/stream/iptv/mnx/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2052" tvg-chno="144" tvg-name="MOVIES NOW" tvg-id="MOVIES.NOW.HD.in" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moviesnow.png" group-title="MOVlES",MOVIES NOW FHD
+https://ott.udptv.org/stream/iptv/moviesnow/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2082" tvg-chno="174" tvg-name="OCN MOVIES" tvg-id="iptv/ocnmovies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ocnmovies.png" group-title="MOVlES",OCN MOVIES FHD
+https://ott.udptv.org/stream/iptv/ocnmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2083" tvg-chno="175" tvg-name="OCN MOVIES 2" tvg-id="iptv/ocnmovies" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ocnmovies.png" group-title="MOVlES",OCN MOVIES 2 FHD
+https://ott.udptv.org/stream/iptv/ocnmovies2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2091" tvg-chno="183" tvg-name="PARAMOUNT NETWORK" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVlES",PARAMOUNT NETWORK FHD
+https://ott.udptv.org/stream/udptvus/paramountnetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2092" tvg-chno="184" tvg-name="PARAMOUNT+ WITH SHOWTIME" tvg-id="udptvus/paramountwithshowtime" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVlES",PARAMOUNT+ WITH SHOWTIME FHD
+https://ott.udptv.org/stream/udptvus/paramountwithshowtime/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2093" tvg-chno="185" tvg-name="PARAMOUNT+ WITH SHOWTIME WEST" tvg-id="udptvus/paramountwithshowtimewest" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/paramount.png" group-title="MOVlES",PARAMOUNT+ WITH SHOWTIME WEST FHD
+https://ott.udptv.org/stream/udptvus/paramountwithshowtimewest/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2103" tvg-chno="195" tvg-name="ROCK ACTION" tvg-id="Rock.Action.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockaction.png" group-title="MOVlES",ROCK ACTION FHD
+https://ott.udptv.org/stream/iptv/rockaction/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2107" tvg-chno="199" tvg-name="SCREAMFLIX" tvg-id="Scream.TV.distro" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/screamflix.png" group-title="MOVlES",SCREAMFLIX FHD
+https://ott.udptv.org/stream/iptv/screamflix/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2109" tvg-chno="201" tvg-name="SHOWTIME 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtime2.png" group-title="MOVlES",SHOWTIME 2 FHD
+https://ott.udptv.org/stream/udptvus/showtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2110" tvg-chno="202" tvg-name="SHOWTIME EXTREME" tvg-id="Showtime.Extreme.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtimeextreme.png" group-title="MOVlES",SHOWTIME EXTREME FHD
+https://ott.udptv.org/stream/udptvus/showtimeextreme/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2111" tvg-chno="203" tvg-name="SHOWTIME NEXT" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtimenext.png" group-title="MOVlES",SHOWTIME NEXT FHD
+https://ott.udptv.org/stream/udptvus/showtimenext/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2112" tvg-chno="204" tvg-name="SHOWTIME SHOWCASE" tvg-id="Showtime.Showcase.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/showtimeshowcase.png" group-title="MOVlES",SHOWTIME SHOWCASE FHD
+https://ott.udptv.org/stream/udptvus/showtimeshowcase/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2125" tvg-chno="218" tvg-name="SKY CINEMA ACTION" tvg-id="Sky.Cinema.Action.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemaaction.png" group-title="MOVlES",SKY CINEMA ACTION FHD
+https://ott.udptv.org/stream/Sky/skycinemaaction/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2126" tvg-chno="219" tvg-name="SKY CINEMA ACTION UK" tvg-id="SkyCinemaAction.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemaaction.png" group-title="MOVlES",SKY CINEMA ACTION UK
+https://ott.udptv.com/stream/skyuk/skycinemaaction/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2127" tvg-chno="220" tvg-name="SKY CINEMA ANIMATION UK" tvg-id="SkyCinemaAnimation.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemaanimation.png" group-title="MOVlES",SKY CINEMA ANIMATION UK
+https://ott.udptv.com/stream/skyuk/skycinemaanimation/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2128" tvg-chno="222" tvg-name="SKY CINEMA COLLECTION" tvg-id="Sky.Cinema.Collection.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemacollection.png" group-title="MOVlES",SKY CINEMA COLLECTION FHD
+https://ott.udptv.org/stream/Sky/skycinemacollection/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2129" tvg-chno="223" tvg-name="SKY CINEMA COMEDY" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemacomedy.png" group-title="MOVlES",SKY CINEMA COMEDY FHD
+https://ott.udptv.org/stream/Sky/skycinemacomedy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2130" tvg-chno="224" tvg-name="SKY CINEMA COMEDY UK" tvg-id="skyuk/skycinemacomedy" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemacomedy.png" group-title="MOVlES",SKY CINEMA COMEDY UK
+https://ott.udptv.com/stream/skyuk/skycinemacomedy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2131" tvg-chno="225" tvg-name="SKY CINEMA DRAMA" tvg-id="Sky.Cinema.Drama.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemadrama.png" group-title="MOVlES",SKY CINEMA DRAMA FHD
+https://ott.udptv.org/stream/Sky/skycinemadrama/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2132" tvg-chno="226" tvg-name="SKY CINEMA DRAMA UK" tvg-id="SkyCinemaDrama.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemadrama.png" group-title="MOVlES",SKY CINEMA DRAMA UK
+https://ott.udptv.com/stream/skyuk/skycinemadrama/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2133" tvg-chno="227" tvg-name="SKY CINEMA DUE" tvg-id="Sky.Cinema.Due.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemadue.png" group-title="MOVlES",SKY CINEMA DUE FHD
+https://ott.udptv.org/stream/Sky/skycinemadue/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2134" tvg-chno="228" tvg-name="SKY CINEMA FAMILY" tvg-id="Sky.Cinema.Family.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemafamily.png" group-title="MOVlES",SKY CINEMA FAMILY FHD
+https://ott.udptv.org/stream/Sky/skycinemafamily/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2135" tvg-chno="229" tvg-name="SKY CINEMA FAMILY UK" tvg-id="SkyCinemaFamily.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemafamily.png" group-title="MOVlES",SKY CINEMA FAMILY UK
+https://ott.udptv.com/stream/skyuk/skycinemafamily/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2136" tvg-chno="230" tvg-name="SKY CINEMA GREATS UK" tvg-id="SkyCinemaGreats.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemagreats.png" group-title="MOVlES",SKY CINEMA GREATS UK
+https://ott.udptv.com/stream/skyuk/skycinemagreats/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2137" tvg-chno="231" tvg-name="SKY CINEMA PREMIER UK" tvg-id="SkyCinemaPremiere.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemapremier.png" group-title="MOVlES",SKY CINEMA PREMIER UK
+https://ott.udptv.com/stream/skyuk/skycinemapremier/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2138" tvg-chno="232" tvg-name="SKY CINEMA ROMANCE" tvg-id="Sky.Cinema.Romance.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemaromance.png" group-title="MOVlES",SKY CINEMA ROMANCE FHD
+https://ott.udptv.org/stream/Sky/skycinemaromance/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2139" tvg-chno="234" tvg-name="SKY CINEMA SUSPENCE" tvg-id="Sky.Cinema.Suspense.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemasuspense.png" group-title="MOVlES",SKY CINEMA SUSPENCE FHD
+https://ott.udptv.org/stream/Sky/skycinemasuspence/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2140" tvg-chno="235" tvg-name="SKY CINEMA THRILLER UK" tvg-id="SkyCinemaThriller.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemathriller.png" group-title="MOVlES",SKY CINEMA THRILLER UK
+https://ott.udptv.com/stream/skyuk/skycinemathriller/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2141" tvg-chno="236" tvg-name="SKY CINEMA UNO" tvg-id="Sky.Cinema.Uno.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skycinemauno.png" group-title="MOVlES",SKY CINEMA UNO FHD
+https://ott.udptv.org/stream/Sky/skycinemauno/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2149" tvg-chno="244" tvg-name="SKY SHOWTIME 1" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyshowtime.png" group-title="MOVlES",SKY SHOWTIME 1 FHD
+https://ott.udptv.org/stream/iptv/skyshowtime1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2150" tvg-chno="245" tvg-name="SKY SHOWTIME 2" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyshowtime.png" group-title="MOVlES",SKY SHOWTIME 2 FHD
+https://ott.udptv.org/stream/iptv/skyshowtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2184" tvg-chno="279" tvg-name="TAP ACTION FLIX" tvg-id="Tapactionflix.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapactionflix.png" group-title="MOVlES",TAP ACTION FLIX FHD
+https://ott.udptv.org/stream/iptv/tapactionflix/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2185" tvg-chno="280" tvg-name="TAP EDGE" tvg-id="Tap.Edge.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapedge.png" group-title="MOVlES",TAP EDGE FHD
+https://ott.udptv.org/stream/iptv/tapedge/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2186" tvg-chno="281" tvg-name="TAP MOVIES" tvg-id="Tapmovies.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tapmovies.png" group-title="MOVlES",TAP MOVIES FHD
+https://ott.udptv.org/stream/iptv/tapmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2190" tvg-chno="285" tvg-name="THRILL" tvg-id="TLC.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/thrill.png" group-title="MOVlES",THRILL FHD
+https://ott.udptv.org/stream/iptv/thrill/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2192" tvg-chno="287" tvg-name="TMC" tvg-id="Tagalized.Movie.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tmc.png" group-title="MOVlES",TMC FHD
+https://ott.udptv.org/stream/iptv/tmc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2208" tvg-chno="303" tvg-name="TVN MOVIES" tvg-id="tvN.Movies.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png" group-title="MOVlES",TVN MOVIES FHD
+https://ott.udptv.org/stream/astro/tvnmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2209" tvg-chno="304" tvg-name="TVN MOVIES PINOY" tvg-id="Cg.Tvnmovie.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvnmovies.png" group-title="MOVlES",TVN MOVIES PINOY FHD
+https://ott.udptv.org/stream/iptv/tvnmoviespinoy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2210" tvg-chno="305" tvg-name="UNIVERSAL MOVIES" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/universalmovies.png" group-title="MOVlES",UNIVERSAL MOVIES
+https://ott.udptv.com/stream/fubo/universalmovies/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2220" tvg-chno="315" tvg-name="VIVA CINEMA" tvg-id="VIVA.Cinema.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/viva.png" group-title="MOVlES",VIVA CINEMA FHD
+https://ott.udptv.org/stream/iptv/vivacinema/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2226" tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-title="ENTERTAlNMENT",ALIBI
+https://ott.udptv.com/stream/skyuk/alibi/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2233" tvg-chno="26" tvg-name="ARIRANG" tvg-id="ArirangTV(src01).kr" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/arirang.png" group-title="ENTERTAlNMENT",ARIRANG FHD
+https://ott.udptv.org/stream/iptv/arirang/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2240" tvg-chno="33" tvg-name="AXN" tvg-id="AXN.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/axn.png" group-title="ENTERTAlNMENT",AXN FHD
+https://ott.udptv.org/stream/astro/axn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2287" tvg-chno="80" tvg-name="E! EAST" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/e!.png" group-title="ENTERTAlNMENT",E! EAST
+https://ott.udptv.com/stream/nbc/eeast/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2288" tvg-chno="81" tvg-name="E! WEST" tvg-id="Local.Programming.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/e!.png" group-title="ENTERTAlNMENT",E! WEST
+https://ott.udptv.com/stream/nbc/ewest/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2313" tvg-chno="106" tvg-name="GOLD" tvg-id="skyuk/gold" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gold.png" group-title="ENTERTAlNMENT",GOLD
+https://ott.udptv.com/stream/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2315" tvg-chno="108" tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gtv.png" group-title="ENTERTAlNMENT",GTV FHD
+https://ott.udptv.org/stream/iptv/gtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2319" tvg-chno="112" tvg-name="HBO COMEDY" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbocomedy.png" group-title="ENTERTAlNMENT",HBO COMEDY FHD
+https://ott.udptv.org/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2320" tvg-chno="113" tvg-name="HBO COMEDY MAX" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hbocomedy.png" group-title="ENTERTAlNMENT",HBO COMEDY MAX FHD
+https://ott.udptv.org/stream/iptv/hbocomedymax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2330" tvg-chno="123" tvg-name="HITS" tvg-id="Hits.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hits.png" group-title="ENTERTAlNMENT",HITS FHD
+https://ott.udptv.org/stream/iptv/hits/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2332" tvg-chno="125" tvg-name="HITS NOW" tvg-id="HITS.NOW.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hitsnow.png" group-title="ENTERTAlNMENT",HITS NOW FHD
+https://ott.udptv.org/stream/astro/hitsnow/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2334" tvg-chno="127" tvg-name="IQIYI" tvg-id="iQIYI.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/iqiyi.png" group-title="ENTERTAlNMENT",IQIYI FHD
+https://ott.udptv.org/stream/astro/iqiyi/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2339" tvg-chno="132" tvg-name="KIX" tvg-id="Kix.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kix.png" group-title="ENTERTAlNMENT",KIX FHD
+https://ott.udptv.org/stream/iptv/kix/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2403" tvg-chno="196" tvg-name="ROCK ENTERTAINMENT" tvg-id="Rock.Entertainment.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rockentertainment.png" group-title="ENTERTAlNMENT",ROCK ENTERTAINMENT FHD
+https://ott.udptv.org/stream/iptv/rockentertainment/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2412" tvg-chno="205" tvg-name="SKY ARTS UK" tvg-id="Sky.Arts.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyarts.png" group-title="ENTERTAlNMENT",SKY ARTS UK
+https://ott.udptv.com/stream/skyuk/skyarts/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2413" tvg-chno="206" tvg-name="SKY ATLANTIC" tvg-id="Sky.Atlantic.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyatlantic.png" group-title="ENTERTAlNMENT",SKY ATLANTIC FHD
+https://ott.udptv.org/stream/Sky/skyatlantic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2414" tvg-chno="207" tvg-name="SKY ATLANTIC UK" tvg-id="Sky.Atlantic.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyatlantic.png" group-title="ENTERTAlNMENT",SKY ATLANTIC UK
+https://ott.udptv.com/stream/skyuk/skyatlantic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2487" tvg-chno="283" tvg-name="TAP TV" tvg-id="Taptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/taptv.png" group-title="ENTERTAlNMENT",TAP TV FHD
+https://ott.udptv.org/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2506" tvg-chno="302" tvg-name="TVN" tvg-id="Cg.Tvnpre.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tvn.png" group-title="ENTERTAlNMENT",TVN FHD
+https://ott.udptv.org/stream/iptv/tvn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2651" tvg-chno="145" tvg-name="MTV 90'S" tvg-id="MTV90S.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv90s.png" group-title="MUSlC",MTV 90'S FHD
+https://ott.udptv.org/stream/iptv/mtv90s/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2652" tvg-chno="146" tvg-name="MTV CLASSIC" tvg-id="fubo/mtvclassic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvclassic.png" group-title="MUSlC",MTV CLASSIC
+https://ott.udptv.com/stream/fubo/mtvclassic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2653" tvg-chno="147" tvg-name="MTV HITS" tvg-id="MTV.Hits.se" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvhits.png" group-title="MUSlC",MTV HITS
+https://ott.udptv.com/stream/udptv/mtvhits/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2654" tvg-chno="148" tvg-name="MTV LIVE" tvg-id="MTV.Live.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSlC",MTV LIVE FHD
+https://ott.udptv.org/stream/astro/mtvlive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2655" tvg-chno="149" tvg-name="MTV LIVE IT" tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSlC",MTV LIVE IT
+https://ott.udptv.com/stream/udptv/mtvlive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2656" tvg-chno="150" tvg-name="MTV LIVE US" tvg-id="MTV.Live.HD.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvlive.png" group-title="MUSlC",MTV LIVE US
+https://ott.udptv.com/stream/fubo/mtvlive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2657" tvg-chno="151" tvg-name="MTV UK" tvg-id="MTV.Live.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtv.png" group-title="MUSlC",MTV UK
+https://ott.udptv.com/stream/skyuk/mtvlive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2658" tvg-chno="152" tvg-name="MTVU" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/mtvu.png" group-title="MUSlC",MTVU
+https://ott.udptv.com/stream/fubo/mtvu/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2811" tvg-chno="308" tvg-name="VEVO 2K" tvg-id="plex.tv.Vevo.2K.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo2k.png" group-title="MUSlC",VEVO 2K
+https://ott.udptv.com/stream/udptv/vevo2k/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2812" tvg-chno="309" tvg-name="VEVO 70'S" tvg-id="plex.tv.Vevo.`70s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo70s.png" group-title="MUSlC",VEVO 70'S
+https://ott.udptv.com/stream/udptv/vevo70s/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2813" tvg-chno="310" tvg-name="VEVO 80'S" tvg-id="plex.tv.Vevo.`80s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo80s.png" group-title="MUSlC",VEVO 80'S
+https://ott.udptv.com/stream/udptv/vevo80s/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2814" tvg-chno="311" tvg-name="VEVO 90'S" tvg-id="plex.tv.Vevo.`90s.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevo90s.png" group-title="MUSlC",VEVO 90'S
+https://ott.udptv.com/stream/udptv/vevo90s/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2815" tvg-chno="312" tvg-name="VEVO COUNTRY" tvg-id="plex.tv.Vevo.Country.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevocountry.png" group-title="MUSlC",VEVO COUNTRY
+https://ott.udptv.com/stream/udptv/vevocountry/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2816" tvg-chno="313" tvg-name="VEVO HIP-HOP" tvg-id="plex.tv.Vevo.Hip-Hop.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevohiphop.png" group-title="MUSlC",VEVO HIP-HOP
+https://ott.udptv.com/stream/udptv/vevohiphop/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2817" tvg-chno="314" tvg-name="VEVO R&B" tvg-id="plex.tv.Vevo.Pop.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/vevor&b.png" group-title="MUSlC",VEVO R&B
+https://ott.udptv.com/stream/udptv/vevorb/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2821" tvg-chno="16" tvg-name="ABC AUSTRALIA USA" tvg-id="ABC.Australia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/abcaustralia.png" group-title="NEWS",ABC AUSTRALIA USA FHD
+https://ott.udptv.org/stream/astro/abcaustralia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2823" tvg-chno="18" tvg-name="AL JAZEERA USA" tvg-id="Al.Jazeera.English.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aljazeera.png" group-title="NEWS",AL JAZEERA USA FHD
+https://ott.udptv.org/stream/astro/aljazeera/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2841" tvg-chno="36" tvg-name="BBC NEWS" tvg-id="BBC.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcworld.png" group-title="NEWS",BBC NEWS FHD
+https://ott.udptv.org/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2865" tvg-chno="60" tvg-name="CNA" tvg-id="CNA.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cna.png" group-title="NEWS",CNA FHD
+https://ott.udptv.org/stream/astro/cna/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2866" tvg-chno="61" tvg-name="CNBC" tvg-id="CNBC.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cnbc.png" group-title="NEWS",CNBC FHD
+https://ott.udptv.org/stream/astro/cnbc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2867" tvg-chno="62" tvg-name="CNN" tvg-id="Cnn.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cnn.png" group-title="NEWS",CNN FHD
+https://ott.udptv.org/stream/iptv/cnn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2884" tvg-chno="79" tvg-name="DW" tvg-id="DW.English.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dw.png" group-title="NEWS",DW FHD
+https://ott.udptv.org/stream/astro/dw/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2889" tvg-chno="84" tvg-name="ESPN NEWS" tvg-id="sling/espnnews" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/espnnews.png" group-title="NEWS",ESPN NEWS FHD
+https://ott.udptv.org/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2897" tvg-chno="92" tvg-name="FOX NEWS" tvg-id="sling/foxnews" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/foxnews.png" group-title="NEWS",FOX NEWS FHD
+https://ott.udptv.org/stream/udptvus/foxnews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2901" tvg-chno="96" tvg-name="FRANCE 24" tvg-id="France24.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/france24.png" group-title="NEWS",FRANCE 24 FHD
+https://ott.udptv.org/stream/astro/france24/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2938" tvg-chno="133" tvg-name="KNBC" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knbc.png" group-title="NEWS",KNBC FHD
+https://ott.udptv.org/stream/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2969" tvg-chno="164" tvg-name="NECN" tvg-id="New.England.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/necn.png" group-title="NEWS",NECN
+https://ott.udptv.com/stream/nbc/necn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2970" tvg-chno="165" tvg-name="NET25" tvg-id="Net.25.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/net25.png" group-title="NEWS",NET25 FHD
+https://ott.udptv.org/stream/iptv/net25/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="2981" tvg-chno="176" tvg-name="ONE NEWS" tvg-id="Onenews.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/onenews.png" group-title="NEWS",ONE NEWS FHD
+https://ott.udptv.org/stream/iptv/onenews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3045" tvg-chno="243" tvg-name="SKY NEWS" tvg-id="Sky.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skynews.png" group-title="NEWS",SKY NEWS FHD
+https://ott.udptv.org/stream/astro/skynews/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3121" tvg-chno="17" tvg-name="ADULT SWIM CA" tvg-id="AdultSwim.com.Cartoon.Network.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/adultswim.png" group-title="KlDS",ADULT SWIM CA
+https://ott.udptv.com/stream/udptv/adultswim/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3127" tvg-chno="23" tvg-name="ANIMAX SG" tvg-id="Animax.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animax.png" group-title="KlDS",ANIMAX SG FHD
+https://ott.udptv.org/stream/iptv/animax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3128" tvg-chno="24" tvg-name="ANIME X HIDIVE" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animexhidive.png" group-title="KlDS",ANIME X HIDIVE FHD
+https://ott.udptv.org/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3129" tvg-chno="25" tvg-name="ANIPLUS" tvg-id="Aniplus.id" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/aniplus.png" group-title="KlDS",ANIPLUS FHD
+https://ott.udptv.org/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3150" tvg-chno="46" tvg-name="BLOOMBERG TV" tvg-id="Bloomberg.TV.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bloomberg.png" group-title="KlDS",BLOOMBERG TV FHD
+https://ott.udptv.org/stream/astro/bloombergtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3154" tvg-chno="50" tvg-name="CARTOON NETWORK MY" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonnetwork.png" group-title="KlDS",CARTOON NETWORK MY FHD
+https://ott.udptv.org/stream/astro/astrocartoonnetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3155" tvg-chno="51" tvg-name="CARTOON NETWORK UK" tvg-id="Cartoon.Netwrk.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonnetwork.png" group-title="KlDS",CARTOON NETWORK UK
+https://ott.udptv.com/stream/skyuk/cartoonnetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3156" tvg-chno="52" tvg-name="CARTOONITO" tvg-id="Cartoonito.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cartoonito.png" group-title="KlDS",CARTOONITO FHD
+https://ott.udptv.org/stream/iptv/boomerang/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3175" tvg-chno="71" tvg-name="DISNEY CHANNEL CA" tvg-id="Disney.Channel.Canada.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneychannel.png" group-title="KlDS",DISNEY CHANNEL CA FHD
+https://ott.udptv.org/stream/iptv/disneychannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3176" tvg-chno="72" tvg-name="DISNEY CHANNEL US" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneychannel.png" group-title="KlDS",DISNEY CHANNEL US FHD
+https://ott.udptv.org/stream/udptvus/disneychannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3177" tvg-chno="73" tvg-name="DISNEY JR CA" tvg-id="Disney.Junior.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyjr.png" group-title="KlDS",DISNEY JR CA FHD
+https://ott.udptv.org/stream/iptv/disneyjr/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3178" tvg-chno="74" tvg-name="DISNEY JR US" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyjr.png" group-title="KlDS",DISNEY JR US FHD
+https://ott.udptv.org/stream/udptvus/disneyjr/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3179" tvg-chno="75" tvg-name="DISNEY XD CA" tvg-id="Disney.XD.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyxd.png" group-title="KlDS",DISNEY XD CA FHD
+https://ott.udptv.org/stream/iptv/disneyxd/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3180" tvg-chno="76" tvg-name="DISNEY XD US" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/disneyxd.png" group-title="KlDS",DISNEY XD US FHD
+https://ott.udptv.org/stream/udptvus/disneyxd/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3238" tvg-chno="134" tvg-name="KNOWLEDGE CHANNEL" tvg-id="Knowledge.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knowledgechannel.png" group-title="KlDS",KNOWLEDGE CHANNEL FHD
+https://ott.udptv.org/stream/iptv/knowledgechannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3247" tvg-chno="143" tvg-name="MOONBUG KIDS" tvg-id="Moonbug.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/moonbugkids.png" group-title="KlDS",MOONBUG KIDS FHD
+https://ott.udptv.org/stream/astro/moonbugkids/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3274" tvg-chno="170" tvg-name="NICK JUNIOR" tvg-id="Nick.Jr..my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickjr.png" group-title="KlDS",NICK JUNIOR FHD
+https://ott.udptv.org/stream/astro/nickjunior/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3275" tvg-chno="171" tvg-name="NICK MUSIC" tvg-id="fubo/nickmusic" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickmusic.png" group-title="KlDS",NICK MUSIC
+https://ott.udptv.com/stream/fubo/nickmusic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3276" tvg-chno="172" tvg-name="NICK TOONS" tvg-id="Nicktoons.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nicktoons.png" group-title="KlDS",NICK TOONS
+https://ott.udptv.com/stream/udptv/nicktoons/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3277" tvg-chno="173" tvg-name="NICKELODEON" tvg-id="Nickelodeon.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nickelodeon.png" group-title="KlDS",NICKELODEON FHD
+https://ott.udptv.org/stream/astro/nickelodeon/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3341" tvg-chno="240" tvg-name="SKY KIDS UK" tvg-id="Sky.Kids.HD.uk" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skykids.png" group-title="KlDS",SKY KIDS UK
+https://ott.udptv.com/stream/skyuk/skykids/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3425" tvg-chno="22" tvg-name="ANIMAL PLANET USA" tvg-id="Animal.Planet.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/animalplanet.png" group-title="DOCUMENTARY",ANIMAL PLANET USA FHD
+https://ott.udptv.org/stream/astro/animalplanet/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3437" tvg-chno="34" tvg-name="BBC EARTH" tvg-id="BBC.Earth.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcearth.png" group-title="DOCUMENTARY",BBC EARTH FHD
+https://ott.udptv.org/stream/astro/bbcearth/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3471" tvg-chno="68" tvg-name="DISCOVERY ASIA" tvg-id="Discovery.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/discoveryasia.png" group-title="DOCUMENTARY",DISCOVERY ASIA FHD
+https://ott.udptv.org/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3472" tvg-chno="69" tvg-name="DISCOVERY CHANNEL" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/discoverychannel.png" group-title="DOCUMENTARY",DISCOVERY CHANNEL FHD
+https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3473" tvg-chno="70" tvg-name="DISCOVERY US" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://github.com/tunebox-digital/icon/blob/main/discoverychannel.png?raw=true" group-title="DOCUMENTARY",DISCOVERY US FHD
+https://ott.udptv.org/stream/udptvus/discovery/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3505" tvg-chno="102" tvg-name="GLOBAL TREKKER" tvg-id="Global.Trekker.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/globaltrekker.png" group-title="DOCUMENTARY",GLOBAL TREKKER FHD
+https://ott.udptv.org/stream/astro/globaltrekker/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3525" tvg-chno="122" tvg-name="HISTORY" tvg-id="History.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/history.png" group-title="DOCUMENTARY",HISTORY FHD
+https://ott.udptv.org/stream/iptv/history/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3541" tvg-chno="138" tvg-name="LOVE NATURE" tvg-id="Love.Nature.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lovenature.png" group-title="DOCUMENTARY",LOVE NATURE FHD
+https://ott.udptv.org/stream/astro/lovenature/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3557" tvg-chno="154" tvg-name="NAT GEO WILD" tvg-id="National.Geographic.Wild.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/natgeowild.png" group-title="DOCUMENTARY",NAT GEO WILD
+https://ott.udptv.com/stream/udptv/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3558" tvg-chno="155" tvg-name="NAT GEO WILD US" tvg-id="sling/natgeowild" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/natgeowild.png" group-title="DOCUMENTARY",NAT GEO WILD US FHD
+https://ott.udptv.org/stream/udptvus/natgeowild/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3559" tvg-chno="156" tvg-name="NATIONAL GEOGRAPHIC CHANNEL" tvg-id="National.Geographic.lt" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL
+https://ott.udptv.com/stream/udptv/nationalgeographicchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3560" tvg-chno="157" tvg-name="NATIONAL GEOGRAPHIC CHANNEL CA" tvg-id="National.Geographic.Wild.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL CA
+https://ott.udptv.com/stream/udptv/nationalgeographicca/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3561" tvg-chno="158" tvg-name="NATIONAL GEOGRAPHIC CHANNEL US" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/nationalgeographic.png" group-title="DOCUMENTARY",NATIONAL GEOGRAPHIC CHANNEL US FHD
+https://ott.udptv.org/stream/udptvus/nationalgeographic/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3584" tvg-chno="181" tvg-name="OUTDOOR CHANNEL" tvg-id="udptvus/outdoorchannel" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/outdoor.png" group-title="DOCUMENTARY",OUTDOOR CHANNEL FHD
+https://ott.udptv.org/stream/udptvus/outdoorchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3585" tvg-chno="182" tvg-name="OXYGEN TRUE CRIME" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oxygen.png" group-title="DOCUMENTARY",OXYGEN TRUE CRIME FHD
+https://ott.udptv.org/stream/udptvus/oxygentruecrime/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3729" tvg-chno="27" tvg-name="ASIAN FOOD NETWORK" tvg-id="iptv/asianfoodnetwork" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/afn.png" group-title="LlFESTYLE",ASIAN FOOD NETWORK FHD
+https://ott.udptv.org/stream/iptv/asianfoodnetwork/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3737" tvg-chno="35" tvg-name="BBC FOOD" tvg-id="udptvus/bbcfood" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/bbcfood.png" group-title="LlFESTYLE",BBC FOOD FHD
+https://ott.udptv.org/stream/udptvus/bbcfood/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3779" tvg-chno="77" tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/dmax.png" group-title="LlFESTYLE",DMAX FHD
+https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3823" tvg-chno="121" tvg-name="HGTV" tvg-id="HGTV.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/hgtv.png" group-title="LlFESTYLE",HGTV FHD
+https://ott.udptv.org/stream/astro/hgtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3985" tvg-chno="286" tvg-name="TLC" tvg-id="TLC.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tlc.png" group-title="LlFESTYLE",TLC FHD
+https://ott.udptv.org/stream/astro/tlc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3993" tvg-chno="294" tvg-name="TRAVEL CHANNEL IT" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LlFESTYLE",TRAVEL CHANNEL IT
+https://ott.udptv.com/stream/udptv/travelchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="3994" tvg-chno="295" tvg-name="TRAVEL CHANNEL US" tvg-id="Travel.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/travelchannel.png" group-title="LlFESTYLE",TRAVEL CHANNEL US FHD
+https://ott.udptv.org/stream/udptvus/travelchannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4020" tvg-chno="19" tvg-name="ALIBI" tvg-id="skyuk/alibi" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/alibi.png" group-title="OTHER",ALIBI
+https://ott.udptv.com/stream/skyuk/alibi/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4056" tvg-chno="55" tvg-name="CGTN" tvg-id="CGTN.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/cgtn.png" group-title="OTHER",CGTN FHD
+https://ott.udptv.org/stream/astro/cgtn/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4107" tvg-chno="106" tvg-name="GOLD" tvg-id="skyuk/gold" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gold.png" group-title="OTHER",GOLD
+https://ott.udptv.com/stream/skyuk/gold/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4109" tvg-chno="108" tvg-name="GTV" tvg-id="GTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/gtv.png" group-title="OTHER",GTV FHD
+https://ott.udptv.org/stream/iptv/gtv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4129" tvg-chno="128" tvg-name="JUGO PINOY TV" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/jungopinoy.png" group-title="OTHER",JUGO PINOY TV FHD
+https://ott.udptv.org/stream/iptv/jugopinoytv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4130" tvg-chno="129" tvg-name="K-PLUS" tvg-id="K-Plus.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/k+.png" group-title="OTHER",K-PLUS FHD
+https://ott.udptv.org/stream/astro/kplus/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4131" tvg-chno="130" tvg-name="KAPAMILYA CHANNEL" tvg-id="Kapamilya.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kapamilyachannel.png" group-title="OTHER",KAPAMILYA CHANNEL FHD
+https://ott.udptv.org/stream/iptv/kapamilyachannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4132" tvg-chno="131" tvg-name="KBS WORLD" tvg-id="KBS.World.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/kbsworld.png" group-title="OTHER",KBS WORLD FHD
+https://ott.udptv.org/stream/astro/kbsworld/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4134" tvg-chno="133" tvg-name="KNBC" tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/knbc.png" group-title="OTHER",KNBC FHD
+https://ott.udptv.org/stream/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4137" tvg-chno="136" tvg-name="LIFETIME" tvg-id="Lifetime.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/lifetime.png" group-title="OTHER",LIFETIME FHD
+https://ott.udptv.org/stream/astro/lifetime/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4140" tvg-chno="139" tvg-name="METRO CHANNEL" tvg-id="Metro.Channel.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/metrochannel.png" group-title="OTHER",METRO CHANNEL FHD
+https://ott.udptv.org/stream/iptv/metrochannel/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4154" tvg-chno="153" tvg-name="MYX GLOBAL" tvg-id="MYX.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/myx.png" group-title="OTHER",MYX GLOBAL FHD
+https://ott.udptv.org/stream/iptv/myxglobal-1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4166" tvg-chno="165" tvg-name="NET25" tvg-id="Net.25.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/net25.png" group-title="OTHER",NET25 FHD
+https://ott.udptv.org/stream/iptv/net25/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4178" tvg-chno="177" tvg-name="ONE PH" tvg-id="Oneph.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/oneph.png" group-title="OTHER",ONE PH FHD
+https://ott.udptv.org/stream/iptv/oneph/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4181" tvg-chno="180" tvg-name="ONE TV ASIA" tvg-id="ONE.HD.my" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/one.png" group-title="OTHER",ONE TV ASIA FHD
+https://ott.udptv.org/stream/iptv/onetvasia/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4187" tvg-chno="186" tvg-name="PBA RUSH" tvg-id="Pbarush.Hd.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbarush.png" group-title="OTHER",PBA RUSH FHD
+https://ott.udptv.org/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4188" tvg-chno="187" tvg-name="PBO" tvg-id="PBO.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/pbo.png" group-title="OTHER",PBO FHD
+https://ott.udptv.org/stream/iptv/pbo/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4194" tvg-chno="193" tvg-name="PTV" tvg-id="PTV.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/ptv.png" group-title="OTHER",PTV FHD
+https://ott.udptv.org/stream/iptv/ptv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4198" tvg-chno="197" tvg-name="RPTV" tvg-id="Rptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/rptv.png" group-title="OTHER",RPTV FHD
+https://ott.udptv.org/stream/iptv/rptv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4199" tvg-chno="198" tvg-name="SARI SARI" tvg-id="Sari.Sari.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/sarisari.png" group-title="OTHER",SARI SARI FHD
+https://ott.udptv.org/stream/iptv/sarisari/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4266" tvg-chno="268" tvg-name="SKY UNO" tvg-id="Sky.Uno.it" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/skyuno.png" group-title="OTHER",SKY UNO FHD
+https://ott.udptv.org/stream/Sky/skyuno/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4267" tvg-chno="269" tvg-name="SMNI" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/smni.png" group-title="OTHER",SMNI FHD
+https://ott.udptv.org/stream/iptv/smni/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4281" tvg-chno="283" tvg-name="TAP TV" tvg-id="Taptv.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/taptv.png" group-title="OTHER",TAP TV FHD
+https://ott.udptv.org/stream/iptv/taptv/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+
+#EXTINF:-1 CUID="4299" tvg-chno="301" tvg-name="TV5 HD" tvg-id="Tv5.ph" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv5.png" group-title="OTHER",TV5 HD FHD
+https://ott.udptv.org/stream/iptv/tv5hd/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 
 

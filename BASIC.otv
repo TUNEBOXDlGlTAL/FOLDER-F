@@ -1943,12 +1943,12 @@ https://tunebox.space/i̇i̇tv1
 https://tunebox.space/i̇i̇tv2
 
 #EXTINF:-1 tvg-id="103.astro" ch-number="103" group-title="MALAYSlA" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/tv3.png",103 TV3
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; ZTE A7030 Build/RP1A.201005.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/133.0.6943.121 Mobile Safari/537.36
 https://tunebox.space/i̇i̇tv3
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3691,6 +3691,12 @@ MOVIES
 ######
 
 
+
+
+#EXTINF:-1 group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺𝗠𝗔𝗟𝗔𝗬𝗦𝗜𝗔🔺🔺🔺🔺🔺
+https://tunebox.shop/promo2
+
+
 #EXTINF:-1 ch-number="108" group-title="MOVlES" group-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/movielogo.png" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/citra.png" tvg-id="108.astro",CITRA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZU8tJaW/snyeWuCFJYShZg", "kid":"hL+a1oSL59sg+dFoI97vEA" } ], "type":"temporary" }
@@ -3826,7 +3832,8 @@ https://tunebox.space/i̇i̇hbohits
 https://tunebox.space/i̇i̇tvnmovies
 
 
-
+#EXTINF:-1 group-title="MOVlES" tvg-logo="https://raw.githubusercontent.com/tunebox-digital/icon/refs/heads/main/null.png" tvg-id="dummy.us",🔺🔺🔺🔺🔺𝗜𝗡𝗗𝗢𝗡𝗘𝗦𝗜𝗔🔺🔺🔺🔺🔺
+https://tunebox.shop/promo2
 
 
 
